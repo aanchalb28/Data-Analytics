@@ -7,3 +7,4 @@ Objective : Evaluate Atliq Hardware's financial performance by leveraging Power 
             areas for improvement.This report also supports data-driven decision-making in pricing, inventory,
             and sales strategies, ensuring financial stability and growth for the business.
 
+Report_images : Screenshot 2025-03-23 155911.png
