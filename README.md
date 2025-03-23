@@ -1,4 +1,4 @@
-Excel - Data Analysis
+AtliQ Hardware P&L report 
 Microsoft Excel - Customer/Market Performance Project :)
 Objective : Evaluate Atliq Hardware's financial performance by leveraging Power Pivot, 
             Power Query, and ETL processes to streamline data extraction, transformation, and loading.
